@@ -177,6 +177,8 @@ Confidentiality policies – Hybrid policies.
 - The Bell–LaPadula model leverages mandatory access control: the model does not give users power to alter access control in the system manifested in a principle called *tranquility*.
 - BLP is multi-level security model that protect confidentiality.
 - It states information cannot leak to subjects who are not cleared for the information.
+- Strong tranquility - subject and object and compartment do not change 
+- weak tranquility - subject or object and compartments don't change 
 [confidential policy](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rose-hulman.edu/class/cs/csse442/current/notes/CIPoliciesNotes.pdf&ved=2ahUKEwib9vS40NCIAxXiSWwGHRvDLskQFnoECBwQAQ&usg=AOvVaw0T-3oZBdQ01KNkkZB_1BMC)
 
 ## Unit 2 BASIC CRYPTOGRAPHY AND KEY MANAGEMENT 
@@ -200,7 +202,7 @@ infrastructure – Digital Signature
 - Types of crypto systems:
 	- **Symmetric key encryption** 
 		- Symmetric key cryptography is study of symmetric cryptosystems or secret key cryptosystem.
-		- Digital/Data Encryption Standard (DES),AES (Advance Encryption standard),3DES,IDEA(International Data Encryption Standard) & BLOWFISH,Twofish,Threefish
+		- Digital/Data Encryption Standard (DES),AES (Advance Encryption  Standard),3DES,IDEA(International Data Encryption Algorithm) & BLOWFISH,Twofish,Threefish
 		- *Features*
 			- It is fast compare to asymmetric because of same key
 			- For  `n` user it required n* (n-1)/2 keys to communicate with each other
