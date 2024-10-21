@@ -152,7 +152,107 @@
 
 ---> [chatgpt link](https://chatgpt.com/c/2596c025-9384-455d-a27a-27d5fd168019)
 
+## Unit 2 Role of modelling in the supply chain:
+
+>Defining the supply chain-The supply chain as a complex system-Supply chain models and modelling-The use of
+computer modeling in the supply chain. Data in supply chain-data analytics methodology-Data type-small and big data
+in supply chain-Challenges in working with data.
 
 
+- **Supply chain**
+	- Moving of raw materials from the supplier to final consumer 
+	- It  involve *sourcing ,procurement,manufacturing ,transportation,warehousing and distribution.*
+	- Key components:
+		- supplier ,manufactures,distributors,retailers and customers
+
+- **The supply chain as a complex system**
+	- It is consider as a complex system due to its interconnected process and dynamic interaction among various entities that operate within uncertain environment.
+	
+	- **Types & explanation:**
+		- Interconnected
+		- Dynamic interactions
+		- Uncertainty and Variability
+		- Decentralization
+	
+- **Supply chain models and modelling**
+	- It is abstraction are abstract representation of supply chain processes and system that are used to understand,predict and optimize supply chain operations
+	
+	- **Types & explanation**
+		- Descriptive models - structured and behavior of supply chain(flow chart or diagram)
+		
+		- Analytical models  - Equation to describe relationships 
+		- Simulation models - Mimic real world supply Scenario chain for optimization 
+		- Optimization model -  optimize the process minimize the cost or max the efficiency
+	- **Key components**
+		- Variable - inventory levels ,supply,demand
+		- Constraints - Budget,capacity
+		- objective - Minimize cost ,max profit
+		- Algorithm - linear programming ,heuristic and monte carlo simulations 
+	- `Example`
+		- Simulation mode Anylogic 
+
+- **The use of computer modeling in the supply chain**
+	- Use advance s/w tools and techniques to simulate ,analyze and optimize supply chain processes.
+	- **Types & explanation**
+		- Discrete event simulation(DES)
+		- Agent based modeling (ABM)
+		- System dynamic modeling (SD)
+		- Machine learning based models 
+	- **Key components**
+		- s/w tools - AnyLogic ,Arena and simul8
+		- Data input
+		- Scenario
+		- Optimization algorithm
+	- `Example`
+		- Procter and Gamble(P&G) use the computer modeling to simulate and optimize their global supply chain.
+
+- **Data in supply chain**
+	- Data that collected in various stages of supply chain including supplier ,procurement,manufacturing,retailer,supplier,inventory management and customer.
+	- **Types & Explanation :**
+		- Operational data - real time data day to day operation
+		- Transactional data - data related to transaction
+		- Master data - Static information such supplier information ,product details
+		- Analytic data - Data used for analyzing and optimization supply chain
+	- **Key components**
+		- Data collection 
+		- Data storage 
+		- Data processing
+		- Data analysis 
+	- **Application**
+		- **Walmart’s Supply Chain Data:**  
+			- Walmart collects and analyzes data from its global supply chain to optimize inventory management and logistics
+
+- **Data analytics methodology in the supply chain**
+	- Data analysis methodology in the supply chain refers to the Systematic approach used to collect ,process and analyze data to derive insights and support decision making.
+	- **Types** 
+		- Descriptive analysis - what happen in past
+		- Predictive data  - What will happen in future
+		- Prescriptive data - it provide recommendation
+	- **Key components**
+		- Data collection 
+		- Data cleansing and preparation
+		- Modeling
+		- Interpretation and visualization
+	- **Application**
+		- Amazons supply chain analytics 
+
+- **Data type -small and Big data in the supply chain**
+	- Small dataset can manageable in small computer itself and Big data refers to complex data stored and processed on advance processing techniques.
+	- Small data - sql
+	- Big data - hadoop ,apache spark and cloud computing
+	- **Key components**
+		- volume
+		- variety
+		- Velocity
+		- Veracity
 
 
+- **Challenge in working with data**
+	- Working with data in supply chains presents challenges related to data collection, storage, quality, integration, and analysis, especially as the volume and complexity of data increase.
+	- **challenges**:
+		- Data quality
+		- Data integration
+		- Data security and privacy
+		- Data storage and scalability
+---
+--- 

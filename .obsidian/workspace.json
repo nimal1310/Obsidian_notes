@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secure system engineering.md",
-                "mode": "preview",
+                "file": "Supply Chain Analytics.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secure system engineering"
+              "title": "Supply Chain Analytics"
             }
           },
           {
@@ -34,37 +34,8 @@
               "icon": "lucide-file",
               "title": "Social & Ethical Issues In AI"
             }
-          },
-          {
-            "id": "44eefa53c6d13d22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git commands.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "git commands"
-            }
-          },
-          {
-            "id": "f98bc5c87f33dbee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Big data notes.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Big data notes"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,13 +178,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f98bc5c87f33dbee",
+  "active": "9b1e12a180b0e270",
   "lastOpenFiles": [
-    "Pasted image 20241018205505.png",
-    "Big data notes.md",
+    "Secure system engineering.md",
     "Social & Ethical Issues In AI.md",
     "git commands.md",
-    "Secure system engineering.md",
+    "DATA VISUALIZATION USING PYTHON.md",
+    "Pasted image 20241020190811.png",
+    "Pasted image 20241020184906.png",
+    "Supply Chain Analytics.md",
+    "Foundation of cyber security.md",
+    "Big data notes.md",
+    "Pasted image 20241018205505.png",
     "Obsidian_notes",
     "Pasted image 20241015115159.png",
     "CRYPTOGRAPHY.md",
@@ -224,12 +200,7 @@
     "Pasted image 20241014123417.png",
     "Pasted image 20241013193725.png",
     "Pasted image 20241013184802.png",
-    "Pasted image 20241013184658.png",
-    "Pasted image 20241013165639.png",
-    "Pasted image 20241013164322.png",
-    "DATA VISUALIZATION USING PYTHON.md",
     "CLI tool using Node.js.md",
-    "Foundation of cyber security.md",
     "SOC Analyst Preparation.md",
     "Computer Networking by freecode camp.md",
     "Networking Tools.md",
@@ -237,7 +208,6 @@
     "shell commands.md",
     "Social Networks.md",
     "Project ideas.md",
-    "Supply Chain Analytics.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "DSA.md",

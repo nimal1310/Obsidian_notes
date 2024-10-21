@@ -222,24 +222,59 @@ Interaction Techniques-Specific Visual Data Analysis Techniques
 
 
 
+## Unit 2  NUMPY
 
+>NUMPY 5
+Understanding Data Types in Python-The Basics of NumPy Arrays-Computation on NumPy Arrays: Universal
+Functions-Aggregations: Min, Max, and Everything In Between-Computation on Arrays: Broadcasting-Comparisons,
+Masks, and Boolean Logic-Fancy Indexing-Sorting Arrays-Structured Data: NumPy's Structured Arrays
 
-# Data structures in pandas:
-- series : 1 Dimensional data
-- Data frame : 2 D array
-- Indexing 
+### Understanding data types in Python
 
+- While a statically-typed language like C or Java requires each variable to be explicitly declared, a dynamically-typed language like Python skips this specification
 
+```c
+int result = 0;
+for(int i=0; i<100; i++){
+    result += i;
+}
+```
 
-**Pivot tables**
-- In pivot tables, the report may include average, mode, summation, or other statistical elements. Pivot tables were originally linked with Microsoft Excel
 ```python
+result = 0
+for i in range(100):
+    result += i
+```
 
-table=pd.pivot_table(df,values,index,columns,aggfunc='aggregat_function')
+**A Python Integer Is More Than Just an Integer**
+- The standard Python implementation is written in C.
+- This means that every Python object is simply a cleverly-disguised C structure, which contains not only its value, but other information as well.
+```c
+struct _longobject {
+    long ob_refcnt;
+    PyTypeObject *ob_type;
+    size_t ob_size;
+    long ob_digit[1];
+};
 ```
 
 
-- sample dataset on [github](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.09-Pivot-Tables.ipynb):
-- String functions
-- Regular expressions -mostly used in compiler design or pattern matching
-- 
+![[Pasted image 20241020190811.png]]
+
+
+- **A Python List Is More Than Just a List**
+
+- List - is heterogeneous data set
+- Array - same as list its is much faster compare to list
+```python 
+L2 = [str(c) for c in L]
+L2
+L3 = [True, "2", 3.0, 4]
+[type(item) for item in L3]
+```
+
+![[Pasted image 20241020184906.png]]
+- At the implementation level, the array essentially contains a single pointer to one contiguous block of data. The Python list, on the other hand, contains a pointer to a block of pointers, each of which in turn points to a full Python object like the Python integer we saw earlier.
+
+- **Fixed-Type Arrays in Python**
+	- 

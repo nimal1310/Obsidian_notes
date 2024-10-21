@@ -41,4 +41,47 @@
 	- `Eg:` Financial data,biometric data
 
 **The value of Cyber Security :**
-- 
+
+---
+---
+**MODULE 2**
+
+Computer viruses
+
+- `CREEPER` virus is the first virus created for testing purpose in 1971.
+	- For counteract the `REAPER` was created a antivirus software in the same year.
+
+- Brain viruses
+- Morris worm 
+	- It was one of the oldest worm discovered in the year of 1988 .It function as DoS.
+		- After the Morris worm `CERT(COMPUTER EMERGENCY RESPONSE TEAM`  was established in the year of 1988
+
+- In 2017, *Equifax,* a credit bureau, was the victim of a data breach that exposed the personal information of millions of people
+
+*Phishing*
+- Business Email Compromise (BEC)
+- Spear phishing
+- Whaling - target on company executive
+- Vishing - Electronic voice communication to obtain sensitive data.
+- Smishing - SMS based phishing
+
+*Malware*
+- Viruses
+- Worms
+- Ransomware
+- Spyware
+
+*Social Engineering*
+- Social media phishing
+- Watering hole attack
+- USB baiting
+- Physical social Engineering
+
+*Social Engineering Principles*
+- Authority
+- Intimidation
+- Consensus/Social proof
+- Scarcity
+- Familiarity 
+- Trust 
+- Urgency
