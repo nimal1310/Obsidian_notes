@@ -25,13 +25,15 @@
       - Predictive analytics 
 	      -> It answer the questions "what will happen?"
 	      -> Predict features events using historical data.
-     - prescriptive analytics
+     - Descriptive analytics
 	      -> It answer the question "what should we do?"
 	      -> Give recommendation
      - Diagnostic analytics
+	     ->Diagnostic analytics is ==a data analysis technique that helps businesses and organizations understand the reasons behind events or outcomes by examining past data==
+	     -> It answer the question "why something happened?"
      - descriptive analytics
 	       -> provide insights based on historical data
-	      ->  It answer the question "what happened?"
+	      -> It answer the question "what happened?"
 
 ## 4. Supply Chain Partners and Analytics
 - Partners -suppliers,customers,distributors and manufactures
@@ -62,7 +64,7 @@
 			 _Airlines:_ Southwest Airlines uses predictive analytics to forecast demand and optimize flight schedules, ticket pricing, and fuel consumption
 			->customer interaction:
 			
-			 _Call Centers:_ Leading telecom companies use customer interaction analytics to track call durations, resolution rates, and customer satisfaction scores.
+			 _Call Centers:_ Leading telecom companies use customer interaction analytics to track call duration, resolution rates, and customer satisfaction scores.
 			
 		
 	- **Supply Chain Analytics in the Manufacturing Sector**

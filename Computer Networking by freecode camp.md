@@ -29,7 +29,7 @@
 - Secure data transfer
 - History - It was a project first started by US Department of Defense in 1960 ,in 1993 the first vpn named as *swlPe* was developed (Nord vpn)
 - It has some disadvantages like speed ,high data usage
-- L2TP and PTTP protocols
+- L2TP and PPTP protocols
 - Stable and seamless connection
 - SOLUTION : use local vpn to increase speed.
 
