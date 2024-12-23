@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA.md",
+                "file": "Big data tech_part I.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSA"
+              "title": "Big data tech_part I"
+            }
+          },
+          {
+            "id": "a13d753caeabf83a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secure system engineering.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Secure system engineering"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0e6bc55fbd4503ed",
@@ -163,23 +179,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dc233e697ebaa61",
+  "active": "a13d753caeabf83a",
   "lastOpenFiles": [
+    "Big data tech_part II.md",
+    "Big data tech_part I.md",
+    "Supply Chain Analytics.md",
+    "DATA VISUALIZATION USING PYTHON.md",
+    "Pasted image 20241129163227.png",
+    "DSA.md",
     "Secure system engineering.md",
     "Computer Networking by freecode camp.md",
     "Foundation of cyber security.md",
-    "DSA.md",
     "Untitled.md",
     "Social Networks.md",
     "Pasted image 20241031144522.png",
     "Social & Ethical Issues In AI.md",
     "1.md",
-    "Supply Chain Analytics.md",
     "git commands.md",
-    "DATA VISUALIZATION USING PYTHON.md",
     "Pasted image 20241020190811.png",
     "Pasted image 20241020184906.png",
-    "Big data notes.md",
     "Pasted image 20241018205505.png",
     "Obsidian_notes",
     "Pasted image 20241015115159.png",
@@ -189,7 +207,6 @@
     "Pasted image 20241014185452.png",
     "Pasted image 20241014181728.png",
     "Pasted image 20241014123417.png",
-    "Pasted image 20241013193725.png",
     "CLI tool using Node.js.md",
     "SOC Analyst Preparation.md",
     "Networking Tools.md",
@@ -198,12 +215,10 @@
     "Project ideas.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Untitled 1.md",
     "Obsidian syntax.md",
     "[.md",
     "2024-08-17.md",
     "2024-08-08.md",
-    "agile chennai.md",
-    "KPMG FLAGS.md"
+    "agile chennai.md"
   ]
 }
